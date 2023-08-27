@@ -11,6 +11,7 @@ This Streamlit app uses a deep learning model trained with TensorFlow to predict
 ![Uploading ezgif.com-video-to-gif (1).gif…]()
 
 
+
 ## Features
 
 - Upload facial images for emotion recognition.
