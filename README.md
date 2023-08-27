@@ -1,4 +1,4 @@
-![ezgif com-video-to-gif (1)](https://github.com/actuaryhafeez/Face-Emotions-Recognition-TensorFlow-Streamlit/assets/55107467/b7827ee5-d696-4fe7-81cd-c69c7d925d23)# Face-Emotions-Recognition-TensorFlow-Streamlit
+# Face-Emotions-Recognition-TensorFlow-Streamlit
 # Face Emotions Recognition TensorFlow Streamlit
 
 This Streamlit app uses a deep learning model trained with TensorFlow to predict emotions (Happy or Sad) from facial images. It provides a user-friendly interface for uploading images and obtaining predictions about the emotions portrayed in the images.
